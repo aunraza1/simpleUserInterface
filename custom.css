@@ -1,0 +1,89 @@
+.back{
+	background-image: url(abc.jpg);
+	background-size: cover;
+	height: 600px;
+	
+    	
+}
+
+.back-d{
+	background-image: url(operations.jpg);
+	background-size: cover;
+	height: 600px;
+    	
+}
+
+
+
+
+
+.back-c{
+	background-image: url(contact.jpg);
+	background-size: cover;
+	height: 600px;
+    	
+}
+.event-row{
+	background-color: rgba(0,0,0,0.6);
+	
+	
+}
+
+.btn
+
+{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 12px;
+	border-radius: 10px;
+	margin-top: -10px ;
+	font-weight: bold;
+	
+}
+*{
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+
+.carousel-inner img {
+	width: 100%;
+	
+}
+.slider
+{
+	background-color: rgba(0,0,0,0.97);
+}
+
+.music-text-div{
+	background-color: #424242;
+	margin-top: -30px;
+	position: relative;
+}
+
+.music-info {
+  transition-duration: 500ms;
+  background-color: rgba(0,0,0,0.74);
+  z-index: 1;
+  padding: 3px;
+  text-align: center;
+
+}
+.scale{
+
+}
+/* .scale:hover img
+{
+transition:1s;  transform:scale(1.1);
+} */
+.music-info:hover
+{
+  background-color: #0a0408;
+}
+
+.bot
+{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 16px;
+	border-radius: 5px;	
+	margin-left: 150px;
+	background-color: red;
+}
